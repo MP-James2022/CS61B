@@ -2,6 +2,7 @@ import java.math.*;
 
 /**
  *  Tests Planet's update() method
+ *  hello，world
  */
 public class TestUpdate {
 
